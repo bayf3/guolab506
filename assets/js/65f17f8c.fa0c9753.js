@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguolab_docusaurus=self.webpackChunkguolab_docusaurus||[]).push([[2851],{9077:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/guolab506/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
